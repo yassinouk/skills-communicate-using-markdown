@@ -9,3 +9,6 @@ $ git add .
 $ git commit -m "initial commit"
 $ git push origin master
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
